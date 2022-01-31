@@ -10,16 +10,11 @@ It has 2 parts:
 - nodejs application that connects to the smart contract in order to get the information and display it in a web page.
 
 
-# Test is live in guthub
-
-In order to see the application running you can access to ... 
-
-
 # Install local environment
  follow this steps in order to run the project localy.
 
 # clone the project
-
+    
 # Install dependencies
 
 ```
@@ -50,6 +45,9 @@ Enter to web page:
 http://localhost:3000/
 
 In this page it will displayed a list of coin pairs and its instant price updated every 5 seconds
+Example:
+
+![image](https://user-images.githubusercontent.com/7832092/151851090-ad745451-80d5-4824-8ed4-0b44bb1a0461.png)
 
 
 # Build
